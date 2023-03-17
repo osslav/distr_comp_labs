@@ -1,0 +1,1 @@
+mpirun -hostfile ./my_hostfile -np 12 ./seventh
